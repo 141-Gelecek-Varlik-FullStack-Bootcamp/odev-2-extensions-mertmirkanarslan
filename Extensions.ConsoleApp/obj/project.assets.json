@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\Extensions.ConsoleApp\\Homework-2.ConsoleApp.csproj",
-      "projectName": "Homework-2.ConsoleApp",
-      "projectPath": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\Extensions.ConsoleApp\\Homework-2.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\Extensions.ConsoleApp\\Homework_2.ConsoleApp.csproj",
+      "projectName": "Homework_2.ConsoleApp",
+      "projectPath": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\Extensions.ConsoleApp\\Homework_2.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\mertm\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\Extensions.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
