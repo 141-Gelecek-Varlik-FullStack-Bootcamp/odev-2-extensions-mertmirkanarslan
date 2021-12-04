@@ -5,6 +5,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ClassLibrary1;
+using ConsoleApp1;
 
 namespace WebApplication.Infrastructures
 {
@@ -12,6 +14,8 @@ namespace WebApplication.Infrastructures
     //implementasyonlari yaptik
     public class LoginFilter : Attribute, IActionFilter
     {
+        string userType = ClassLibrary1.Extensions.GetDisplayName(UserTypes.type1);
+        
         private string user;
         public LoginFilter(string _user)
         {

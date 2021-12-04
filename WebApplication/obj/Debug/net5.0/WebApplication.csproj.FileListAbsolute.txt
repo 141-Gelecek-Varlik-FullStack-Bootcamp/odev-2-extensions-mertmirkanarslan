@@ -31,7 +31,6 @@ C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplicatio
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -45,3 +44,12 @@ C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplicatio
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\WebApplication.pdb
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\WebApplication.genruntimeconfig.cache
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\WebApplication.csproj.CopyComplete
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs

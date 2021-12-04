@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      },
+      "ConsoleApp1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApp1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApp1.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    },
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp1/ConsoleApp1.csproj",
+      "msbuildProject": "../ConsoleApp1/ConsoleApp1.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "ConsoleApp1 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mertm\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\ConsoleApp1\\ConsoleApp1.csproj": {
+              "projectPath": "C:\\Users\\mertm\\Documents\\GitHub\\odev-2-extensions-mertmirkanarslan\\ConsoleApp1\\ConsoleApp1.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

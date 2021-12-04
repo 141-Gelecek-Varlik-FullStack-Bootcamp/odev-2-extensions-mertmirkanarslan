@@ -9,3 +9,4 @@ C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\ClassLibrary1
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
 C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\mertm\Documents\GitHub\odev-2-extensions-mertmirkanarslan\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csprojAssemblyReference.cache
