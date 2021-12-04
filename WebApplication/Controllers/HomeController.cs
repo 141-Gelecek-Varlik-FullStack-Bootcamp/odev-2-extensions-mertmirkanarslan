@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication.Infrastructures;
 using WebApplication.Models;
 
 namespace WebApplication.Controllers
@@ -18,10 +19,16 @@ namespace WebApplication.Controllers
             _logger = logger;
         }
 
+        //[LoginFilter("Admin")]
+        //[LoginFilter("Developer")]
+        [LoginFilter("User")]
         public IActionResult Index()
         {
             return View();
         }
+
+        //LoginFilter attribute'umuzu admin olarak ve developer olarak ayarladigimizda direkt olarak ana sayfa yonlendirmesi yapti
+        //attribute'u User olarak ayarladigimizdaysa bizi dogrudan Privacy sayfasina yonlendirdi.
 
         public IActionResult Privacy()
         {
