@@ -13,12 +13,14 @@
 - [ ] Web Application Projesi içine Infrastructures folder'ı açıldı ve içine bir Login Filter attribute'u eklendi. Bu attribute kısaca proje içerisine ulaşmaya çalışan user tipi eğer Admin veya Developer değilse Home Index'e ulaşmadan direkt olarak Privacy sayfasına yönlendiriyor. Debuglar konularak test edildi.
 
 ```
-Extension'ları çalıştırmak için ConsoleApp1 projesinin üstüne gelip sağ tıklayarak "Set As Startup Project" olarak işaretleyin.
+Extension'ları çalıştırmak için ConsoleApp1 projesinin üstüne gelip sağ tıklayarak ,
+"Set As Startup Project" olarak işaretleyin.
 ```
 
  
 
 ```
-Login Filter Attribute'unun çalışmasını kontrol etmek için WebApplication projesinin üstüne gelip sağ tıklayarak "Set As Startup Project" olarak işaretleyin.
+Login Filter Attribute'unun çalışmasını kontrol etmek için WebApplication projesinin üstüne gelip sağ 
+tıklayarak "Set As Startup Project" olarak işaretleyin.
 ```
 
